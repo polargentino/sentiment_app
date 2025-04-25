@@ -61,3 +61,5 @@ false
 ![imagen](assets/sentiment_1.png)
 ![imagen](assets/sentiment_2.png)
 
+![imagen](assets/sentiment_3.png)
+![imagen](assets/sentiment_4.png)
